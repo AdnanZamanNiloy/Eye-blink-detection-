@@ -82,7 +82,7 @@ Extract the file after downloading.
 
 ---
 
-## ▶️ Run the Project
+## Run the Project
 
 ```bash
 python blink_detection.py
@@ -142,18 +142,3 @@ Or just use:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 🙌 Acknowledgements
-
-Thanks to:
-
-⭐ **Dlib** for the facial landmark model
-⭐ **OpenCV** for real-time vision processing
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the LICENSE file for details.
